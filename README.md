@@ -4,11 +4,10 @@
 
 Hi, awesome Fullstack Developer!
 
-> [!NOTE]
-> Always wanted to have a fully `typesafe API`? <br>
-> Have you ever had the need to create an api that communicates flawlessly with any frontend?<br>
-> Do you want to get rid of the barriers between FE and BE?<br>
-> Do you hate the "throw it over the wall" mentality that goes along with creating an api and then pushing it out there?
+1. Always wanted to have a fully `typesafe API`? <br>
+2. Have you ever had the need to create an api that communicates flawlessly with any frontend?<br>
+3. Do you want to get rid of the barriers between FE and BE?<br>
+4. Do you hate the "throw it over the wall" mentality that goes along with creating an api and then pushing it out there?
 
 It's always a hassle to communicate when we speak different languages. Duh! 😅 <br>
 This repository shows the power of fullstack applications written in the same language.
