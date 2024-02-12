@@ -2,18 +2,17 @@
 
 ## Introduction
 
-Hi, awesome fullstack developer!
+Hi, awesome Fullstack Developer!
 
 Always wanted to have a fully type safe api? <br>
-Have you always wanted an api that communicates flawlessly with any frontend?
+Have you ever had the need to create an api that communicates flawlessly with any frontend?
 
 It's always a hassle to communicate when we speak different languages. Duh! 😅 <br>
-This repository shows the power of a fullstack applications written in the same language.
+This repository shows the power of fullstack applications written in the same language.
 
-No more miscommunication, no more type generation, no more messing around with different docs, move away from different date specs that belong to a specific language, rely on a real fullstack app where all your code and logic move together when delivered.
+No more **miscommunication**, no more clunky **type generation**, no more **messing around with different docs**, move away from **multiple date specs** that belong to a specific language, **rely on a REAL fullstack app** where all your code and logic move together on delivery.
 
-Typescript is here to save your ass, 🎉 <br>
-and to speed things up a bit! 🏎️
+Rest assured, `TRPC` and `Typescript` are here to save your ass, 🎉 <br>and to speed things up a bit! 🏎️
 
 ## TRPC
 
@@ -28,7 +27,8 @@ You can find everything you need to know about [trpc here](https://trpc.io/). We
 
 Also checkout their [vocabulary](https://trpc.io/docs/concepts#vocabulary).
 
-## The examples
+## The Examples
 
-To make sure we cover the whole ground of BE and FE apps we want to mimic as much as possible.
-But, let's start slow and with basic examples then after that we'll be building up to real life examples.
+To make sure we want to cover a large surface of BE and FE configurations we need to mimic their real life situations.
+
+But, let's start slow. We start with some basic examples, then after that we'll be building up to real life examples.
