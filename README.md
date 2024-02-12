@@ -2,18 +2,18 @@
 
 ## Introduction
 
-Hi, awesome developer!
-Always wanted to have a fully type safe api?
+Hi, awesome fullstack developer!
+
+Always wanted to have a fully type safe api? <br>
 Have you always wanted an api that communicates flawlessly with any frontend?
 
-It's always a hassle to communicate when we speak different languages. Duh! 😅
+It's always a hassle to communicate when we speak different languages. Duh! 😅 <br>
 This repository shows the power of a fullstack applications written in the same language.
 
-No more miscommunication, no more type generation, no more messing around with different docs,
-move away from different date specs that belong to a specific language, rely on a real fullstack app where all your code and logic move together when delivered.
+No more miscommunication, no more type generation, no more messing around with different docs, move away from different date specs that belong to a specific language, rely on a real fullstack app where all your code and logic move together when delivered.
 
-Typescript is here to save your ass! 🎉
-And to speed things up x10 🏎️
+Typescript is here to save your ass, 🎉 <br>
+and to speed things up a bit! 🏎️
 
 ## TRPC
 
